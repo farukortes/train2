@@ -2,6 +2,7 @@
 
 ## Header 2
 
+Some changes made on GitHub.com
 
 
 This file shows why I needed to create itself 
@@ -13,4 +14,5 @@ This file mimicking an empty file was supposed to contain something, but look at
 [Just take a look](https://scholar.google.com.tr/citations?user=EslUU6UAAAAJ&hl=tr&oi=ao)
 
 Cheers,
+
 Faruk
