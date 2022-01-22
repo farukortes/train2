@@ -1,0 +1,9 @@
+#comment satırı
+# img
+*.img
+*.png
+*.jpg
+# videos
+*.mp4
+#log
+*.log
